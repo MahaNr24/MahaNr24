@@ -53,7 +53,7 @@ Here are some of the things I’m working on:
 ### 📫 Connect with me
 
 - LinkedIn: *www.linkedin.com/in/maha-nrahmed-803nr*
-- GitHub: *(رابط حسابك)*
+- GitHub: *https://github.com/MahaNr24*
 
 ---
 
