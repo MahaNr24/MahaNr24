@@ -3,12 +3,12 @@ I'm Maha Ahmed 🤍
 
 This is my space where I build AI projects, experiment with ideas, and sometimes break things 😄
 
-- 🎓 &nbsp;I’m an Artificial Intelligence student
-- 🤖 &nbsp;I’m currently working on Computer Vision & Machine Learning projects
-- 🌱 &nbsp;I’m currently learning Deep Learning and Model Optimization
-- 💬 &nbsp;Ask me about Python,SQL, Machine Learning, Computer Vision, or AI projects
-- 👩‍💻 &nbsp;Check out my projects here on GitHub
-- ⚡ &nbsp;Fun fact: I love turning ideas into real AI applications ✨
+-  &nbsp;I’m an Artificial Intelligence student
+-  &nbsp;I’m currently working on Computer Vision & Machine Learning projects
+-  &nbsp;I’m currently learning Deep Learning and Model Optimization
+-  &nbsp;Ask me about Python,SQL, Machine Learning, Computer Vision, or AI projects
+-  &nbsp;Check out my projects here on GitHub
+-  &nbsp;Fun fact: I love turning ideas into real AI applications ✨
 
 ---
 
