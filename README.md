@@ -30,23 +30,24 @@ I love working on projects that combine creativity with technology—especially 
 
 Here are some of the things I’m working on:
 
-- 🤖 Smart Attendance System (without face recognition)
-- 🍽️ Food Demand Prediction System
-- 🚌 University Buses Dataset
-- 🛠️ AI-powered applications
-
+-  Privacy-Preserving AI Attendance Counter
+-  Renewable Energy Growth & Region Analysis in Saudi Arabia System
+-  Fake News Detection paper
+-  Design and Justification of an ML Module for a Real-World Food Demand Forecasting Project
+-  University Buses Dataset
+-  Calculating daily calorie needs
 *(More projects coming soon...)*
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
-- Python 🐍
-- SQL 🗄️
-- TensorFlow / PyTorch 🔥
-- OpenCV 👁️
-- Scikit-learn 📊
-- Git & GitHub 💻
+- Python 
+- SQL 
+- TensorFlow / PyTorch 
+- OpenCV 
+- Scikit-learn 
+- Git & GitHub 
 
 ---
 
@@ -56,13 +57,4 @@ Here are some of the things I’m working on:
 - GitHub: *https://github.com/MahaNr24*
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahaNr24&show_icons=true&theme=radical" />
-</p>
-
----
-
 ✨ *“Learning AI is not just about models, it’s about building something meaningful.”*
